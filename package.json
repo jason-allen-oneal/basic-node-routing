@@ -1,0 +1,17 @@
+{
+  "name": "basic-router",
+  "version": "1.0.0",
+  "description": "Basic routing for vanilla NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
